@@ -41,7 +41,7 @@ st.markdown("""
 # ---------------- HEADER ----------------
 st.markdown("""
 <div style="padding:1.2rem 0 2.2rem 0;">
-    <h1 style="font-size:2.8rem;">🧠 OralScan AI</h1>
+    <h1 style="font-size:2.8rem;">🦷 OralScan AI</h1>
     <p style="color:#94a3b8;">⚕️ AI-powered clinical intelligence for early oral cancer risk detection</p>
 </div>
 """, unsafe_allow_html=True)
@@ -203,4 +203,5 @@ st.markdown("""
 ⚠️ For research and educational use only. This AI system does not replace professional medical diagnosis.
 </div>
 """, unsafe_allow_html=True)
+
 
