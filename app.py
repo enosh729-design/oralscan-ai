@@ -9,7 +9,7 @@ from reportlab.pdfgen import canvas
 from io import BytesIO
 
 # ---------------- PAGE CONFIG ----------------
-st.set_page_config(page_title="OralScan AI", layout="wide", page_icon="🧠")
+st.set_page_config(page_title="OralScan AI", layout="wide", page_icon="🦷")
 
 # ---------------- PREMIUM UI ----------------
 st.markdown("""
@@ -203,3 +203,4 @@ st.markdown("""
 ⚠️ For research and educational use only. This AI system does not replace professional medical diagnosis.
 </div>
 """, unsafe_allow_html=True)
+
